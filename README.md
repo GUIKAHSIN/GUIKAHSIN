@@ -41,5 +41,5 @@
 **Assignment** 
 
 **Technology and Information System** 
-<a herf="https://github.com/GUIKAHSIN/GUIKAHSIN/blob/main/CAREER%20DEVELOPMENT.png" > <\a>
+<a herf="https://github.com/GUIKAHSIN/GUIKAHSIN/blob/main/CAREER%20DEVELOPMENT.png" > </a>
 
