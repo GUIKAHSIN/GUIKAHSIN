@@ -41,4 +41,4 @@
 **Assignment** 
 
 **Technology and Information System** 
-<img scr="CAREER%20DEVELOPMENT.png"> 
+<a href="https://github.com/GUIKAHSIN/GUIKAHSIN/blob/main/CAREER%20DEVELOPMENT.pdf">Assignment 3 (Format: Newsletter)</a>
