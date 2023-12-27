@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm GUI KAH SIN</h1>
+<h1 align="center">Hi , I'm KAH SIN</h1>
 <h3 align="center">I'm currently study Data Engineering at Universiti Teknologi Malaysia.</h3>
 
 - 📫 How to reach me **guisin@graduate.utm.my**
