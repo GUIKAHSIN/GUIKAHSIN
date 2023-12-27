@@ -1,5 +1,16 @@
+<div align="center">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Far.inspiredpencil.com%2Fpictures-2023%2Ffrozen-oaken-gif&psig=AOvVaw1okETin8lbihrl5hbi3OiG&ust=1703752482685000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNin-N-ar4MDFQAAAAAdAAAAABAI" align="center" style="width: 100%" />
+</div>  
+
 <h1 align="center">Hi , I'm KAH SIN</h1>
 <h3 align="center">I'm currently study Data Engineering at Universiti Teknologi Malaysia.</h3>
+
+### About Me:  
+- 23/08/2004  
+  
+- I'm currently learning C++ Programming Language.  
+
+- I am an ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
 
 - 📫 How to reach me **guisin@graduate.utm.my**
 
