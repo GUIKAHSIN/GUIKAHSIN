@@ -11,7 +11,7 @@
   
 - I'm currently learning C++ Programming Language.  
 
-- I am an ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
+- An ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
 
 - 📫 How to reach me **guisin@graduate.utm.my**
 
