@@ -2,7 +2,6 @@
 <img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="center" style="width: 100%" />
 </div>  
   
-
 <h1 align="center">Hi , I'm KAH SIN</h1>
 <h3 align="center">I'm studying Data Engineering at Universiti Teknologi Malaysia.</h3>
 
