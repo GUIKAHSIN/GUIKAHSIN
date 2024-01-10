@@ -41,9 +41,7 @@
 
 <h2>Year 1</h2>
 
-<h3>Sem 1</h3>
-
-### Assignment
+### Sem 1
 **Technology and Information System** 
 <a href="https://github.com/GUIKAHSIN/GUIKAHSIN/blob/main/CAREER%20DEVELOPMENT.pdf">Assignment 3 (Format: Newsletter)</a>
 <br/>
