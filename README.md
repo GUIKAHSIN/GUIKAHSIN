@@ -47,6 +47,6 @@
 
 [**Technology and Information System** ](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/TECHNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
 [**Digital Logic**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DIGITAL%20LOGIC)<br>
-[**Discrete Structure**](
+[**Discrete Structure**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DISCRETE%20STRUCTURE)<br>
 [**Programming Language 1**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/PROGRAMMING%20TECHNIQUE%201)<br>
 
