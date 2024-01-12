@@ -46,4 +46,7 @@
 ### Sem 1
 
 [**Technology and Information System** ](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/TECHNOLOGY%20AND%20INFORMATION%20SYSTEM)
+[**Digital Logic**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DIGITAL%20LOGIC)
+[**Discrete Structure**](
+[**Programming Language 1**](
 
