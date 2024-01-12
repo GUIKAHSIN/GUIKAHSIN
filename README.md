@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying Data Engineering at Universiti Teknologi Malaysia.</h3>
 
 <div align="right">
-<img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="right" style="width: 100%" />
 </div>  
 
 ### About Me:  
