@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm GUI KAH SIN</h1>
 <h3 align="center">I'm studying Data Engineering at Universiti Teknologi Malaysia.</h3>
 
+</p>
+
 <div align="right">
-<img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="right" style="width: 100%" />
+<img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="right" style="width: 150%" />
 </div>  
 
 ### About Me:  
