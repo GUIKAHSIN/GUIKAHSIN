@@ -23,10 +23,19 @@
 <br/>  
 
 
-## Github Stats  
+## Github StatEs  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GUIKAHSIN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN&hide_border=true&layout=compact" align="center" /></div>
 <br/>  
+
+![](https://github-readme-stats.vercel.app/api?username=GUIKAHSIN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GUIKAHSIN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=GUIKAHSIN&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 **Tools**  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
