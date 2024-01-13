@@ -32,10 +32,10 @@
 
 ## Position
 **Secondary School**<br>
-✨ Secretary of School Youth Cadet <br>
-✨ Secretary of Alpha Leo Club <br>
-✨ Chairman of Career Club <br>
-✨ Chairman of Library
+  - Secretary of School Youth Cadet <br>
+  - Secretary of Alpha Leo Club <br>
+  - Chairman of Career Club <br>
+  - Chairman of Library
 
 ## Honors and Awards
 🏆ASTI FEYNMAN CHAMPION (2021)
