@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **guisin@graduate.utm.my**
 
-- My ePortfolio: https://guikahsin.github.io/
+- My ePortfolio: **https://guikahsin.github.io/**
 
 ### Educations
 🎓  Primary school: SJK(C) Chi Ming 1 (2011-2016) </p>
