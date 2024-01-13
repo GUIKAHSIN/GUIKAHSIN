@@ -24,7 +24,7 @@
 
 <br/>  
 
-## Educations
+## Education
 🎓  Primary school: SJK(C) Chi Ming 1 (2011-2016) </p>
 🎓 Secondary School: SMK Seri Tangkak (2017-2021) </p>
 🎓 Pre-University: KMM - Foundation in Physical Science (2022-2023) </p>
@@ -37,7 +37,7 @@
 ✨ Chairman of Career Club <br>
 ✨ Chairman of Library
 
-## Awards
+## Honors and Awards
 🏆ASTI FEYNMAN CHAMPION (2021)
 
 <br>
