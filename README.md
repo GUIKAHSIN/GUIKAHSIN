@@ -6,15 +6,15 @@
 </div>  
 
 ### About Me:  
-- 23/08/2004  
+🌷 23/08/2004  
   
-- I'm currently learning C++ Programming Language.  
+💻 I'm currently learning C++ Programming Language.  
 
-- An ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
+👩🏻‍🚀 An ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
 
-- 📫 How to reach me **guisin@graduate.utm.my**
+📫 How to reach me **guisin@graduate.utm.my**
 
-- My ePortfolio: **https://guikahsin.github.io/**
+🎞 My E-Portfolio: **https://guikahsin.github.io/**
 
 ### Connect with me:
 <p align="left">
