@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **guisin@graduate.utm.my**
 
+- My ePortfolio: https://guikahsin.github.io/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kah-sin-gui-109a182a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gui kah sin" height="30" width="40" /></a>
