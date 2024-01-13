@@ -27,7 +27,9 @@
 ✨ Secretary of Alpha Leo Club <br>
 ✨ Chairman of Career Club <br>
 ✨ Chairman of Library
-  
+
+### Awards
+🏆ASTI FEYNMAN CHAMPION (2021)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
