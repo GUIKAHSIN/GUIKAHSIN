@@ -17,12 +17,13 @@
 - My ePortfolio: https://guikahsin.github.io/
 
 ### Educations
-🎓  Primary school: SJK(C)Chin Ming 1 (2011-2016) </p>
+🎓  Primary school: SJK(C) Chi Ming 1 (2011-2016) </p>
 🎓 Secondary School: SMK Seri Tangkak (2017-2021) </p>
 🎓 Pre-University: KMM - Foundation in Physical Science (2022-2023) </p>
 🎓  University: University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present) 
 
 ### Position
+**Secondary School**<br>
 ✨ Secretary of School Youth Cadet <br>
 ✨ Secretary of Alpha Leo Club <br>
 ✨ Chairman of Career Club <br>
