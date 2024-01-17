@@ -14,7 +14,7 @@
 
 📫 How to reach me **guisin@graduate.utm.my**
 
-🎞 My E-Portfolio: **https://guikahsin.github.io/**
+🎞 My E-Portfolio Website: **https://guikahsin.github.io/**
 
 ### Connect with me:
 <p align="left">
