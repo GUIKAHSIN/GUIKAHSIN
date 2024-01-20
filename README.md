@@ -28,20 +28,22 @@
 🎓  Primary school: SJK(C) Chi Ming 1 (2011-2016) </p>
 🎓 Secondary School: SMK Seri Tangkak (2017-2021) </p>
 🎓 Pre-University: KMM - Foundation in Physical Science (2022-2023) </p>
-🎓  University: University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present) 
+🎓  University: University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present)   
+<br>
 
 ## Position
-**Secondary School**<br>
+**SECONDARY SCHOOL**<br>
   - Secretary of School Youth Cadet <br>
   - Secretary of Alpha Leo Club <br>
   - Chairman of Career Club <br>
   - Chairman of Library
+<br>
 
 ## Honors and Awards
 🏆ASTI FEYNMAN CHAMPION (2021) <br>
 🏆THIRD PLACE IN FUN SCIENCE DIVE: "VIEDEO CONTEST" UTM (2021) <br>
 🏆BRONZE IN UTM STEM 3 MINUTE VIDEO CHALLENGE (2020) <br>
-🏆PARTICIPATE IN 46th MULTIPLE DISTRICT 308 LEO FORUM (2019) <br>
+🏆PARTICIPATE IN 46th MULTIPLE DISTRICT 308 LEO FORUM (2019) 
 <br>
 
 ## Github States  
