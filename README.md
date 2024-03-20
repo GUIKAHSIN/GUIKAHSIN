@@ -74,5 +74,6 @@
 
 ## Sem 2
 <b>SCSJ1023 - </b> [**Programming Technique 2**]
+<b>SECI1143 - </b> [**Probability & Statistical Data Analysis**]
 
 
