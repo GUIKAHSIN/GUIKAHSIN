@@ -72,3 +72,7 @@
 <b>SECI1013 - </b> [**Discrete Structure**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DISCRETE%20STRUCTURE)<br>
 <b>SECJ1013 - </b> [**Programming Language 1**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/PROGRAMMING%20TECHNIQUE%201)<br>
 
+## Sem 2
+<b>SCSJ1023 - </b> [**Programming Technique 2**]
+
+
