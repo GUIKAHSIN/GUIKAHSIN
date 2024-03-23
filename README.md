@@ -8,7 +8,7 @@
 ### About Me:  
 🌷 23/08/2004  
   
-💻 I'm currently learning C++ Programming Language.  
+💻 I'm currently learning `C++` Programming Language.  
 
 👩🏻‍🚀 An ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
 
