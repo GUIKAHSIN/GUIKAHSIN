@@ -64,7 +64,7 @@
 
 <br>
 
-
+<p align="justify">
 
 ## Sem 1  
 <b>SECP1513 - </b> [**Technology and Information System** ](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/TECHNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
@@ -72,10 +72,11 @@
 <b>SECI1013 - </b> [**Discrete Structure**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DISCRETE%20STRUCTURE)<br>
 <b>SECJ1013 - </b> [**Programming Language 1**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/PROGRAMMING%20TECHNIQUE%201)<br>
 
-
 ## Sem 2
 <b>SCSJ1023 - </b> [**Programming Technique 2**] <br>
 <b>SECI1143 - </b> [**Probability & Statistical Data Analysis**] <br>
 <b>SCSR2033 - </b> [**Computer Organization and Architecture**] <br>
+
+</p>
 
 
