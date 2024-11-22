@@ -66,6 +66,7 @@
 
 <p align="justify">
 
+## Year 1
 ## Sem 1  
 <b>SECP1513 - </b> [**Technology and Information System** ](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/TECHNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
 <b>SECR1013 - </b> [**Digital Logic**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DIGITAL%20LOGIC)<br>
@@ -76,6 +77,8 @@
 <b>SCSJ1023 - </b> [**Programming Technique 2**] <br>
 <b>SECI1143 - </b> [**Probability & Statistical Data Analysis**] <br>
 <b>SCSR2033 - </b> [**Computer Organization and Architecture**] <br>
+
+## Year 2
 
 </p>
 
