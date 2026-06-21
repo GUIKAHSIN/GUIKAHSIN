@@ -1,85 +1,166 @@
-<h1 align="center">Hi , I'm GUI KAH SIN</h1>
-<h3 align="center">I'm studying Data Engineering at Universiti Teknologi Malaysia.</h3>
+<div align="center">
 
-<div align="right">
-<img src="https://media.tenor.com/Gfcfj1PstAQAAAAM/frozen-really.gif" align="right" style="width: 150%" />
-</div>  
+# 👋 Hi, I'm GUI KAH SIN
 
-### About Me:  
-🌷 23/08/2004  
-  
-💻 I'm currently learning `C++` Programming Language.  
+### 🎓 Bachelor of Computer Science (Data Engineering)
 
-👩🏻‍🚀 An ISFP (Introverted, Observant, Feeling, and Prospecting personality traits).
+### Universiti Teknologi Malaysia (UTM)
 
-📫 How to reach me **guisin@graduate.utm.my**
+<a href="https://guikahsin.github.io/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-06B6D4?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-🎞 My E-Portfolio Website: **https://guikahsin.github.io/**
+<a href="mailto:guisin@graduate.utm.my">
+<img src="https://img.shields.io/badge/📧 Email-Contact Me-F59E0B?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-### Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/kah-sin-gui-109a182a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gui kah sin" height="30" width="40" /></a>
-<a href="https://instagram.com/jiasinnnnnnn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiasinnnnnnn_" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/kah-sin-gui-109a182a6/">
+<img src="https://img.shields.io/badge/💼 LinkedIn-Connect-2563EB?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-<br/>  
+</div>
 
-## Education
-🎓  Primary school: SJK(C) Chi Ming 1 (2011-2016) </p>
-🎓 Secondary School: SMK Seri Tangkak (2017-2021) </p>
-🎓 Pre-University: KMM - Foundation in Physical Science (2022-2023) </p>
-🎓  University: University Technology Malaysia - Bachelor Degree in Computer Science(Data Engineering) (2023-present)   
-<br>
+---
 
-## Position
-**SECONDARY SCHOOL**<br>
-  - Secretary of School Youth Cadet <br>
-  - Secretary of Alpha Leo Club <br>
-  - Chairman of Career Club <br>
-  - Chairman of Library
-<br>
+## 👩🏻‍💻 About Me
 
-## Honors and Awards
-🏆ASTI FEYNMAN CHAMPION (2021) <br>
-🏆THIRD PLACE IN FUN SCIENCE DIVE: "VIEDEO CONTEST" UTM (2021) <br>
-🏆BRONZE IN UTM STEM 3 MINUTE VIDEO CHALLENGE (2020) <br>
-🏆PARTICIPATE IN 46th MULTIPLE DISTRICT 308 LEO FORUM (2019) 
-<br>
+* 🎓 Data Engineering Student at Universiti Teknologi Malaysia
+* ☁️ Interested in Data Engineering, Cloud Analytics, and Business Intelligence
+* 📊 Passionate about transforming data into meaningful insights
+* 🌱 Currently exploring Azure, Apache Spark, AI, and Modern Data Platforms
+* 📍 Malaysia
 
-## Github States  
+---
 
-![](https://github-readme-stats.vercel.app/api?username=GUIKAHSIN&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GUIKAHSIN&theme=buefy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
-### Skiils
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+### 📱 TVETMARA Student Attendance Management System
+
+Flutter and Firebase-based attendance management application supporting attendance tracking, timetable management, and discipline reporting.
+
+🔗 Repository: https://github.com/GUIKAHSIN/ad_project_mara
+
+`Flutter` `Firebase` `Dart`
+
+</td>
+
+<td width="50%">
+
+### 🏦 KADA eServe
+
+A cooperative management system supporting membership registration, loan applications, and administrative management.
+
+🔗 Repository: https://github.com/GUIKAHSIN/KADA-eServe
+
+`PHP` `MySQL` `HTML` `CSS`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Azure Data Engineering Pipeline
+
+End-to-end Azure Data Engineering solution utilizing Azure Data Factory, Databricks, ADLS Gen2, Synapse Analytics, and Power BI.
+
+`Azure` `Databricks` `Synapse` `Power BI`
+
+</td>
+
+<td width="50%">
+
+### ⚡ High Performance Web Crawler
+
+Large-scale crawler and performance benchmarking project comparing Pandas, Polars, and DuckDB.
+
+`Python` `Polars` `DuckDB` `Pandas`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
 
-<p align="justify">
+### Data Engineering & Analytics
 
-## Year 1
-## Sem 1  
-<b>SECP1513 - </b> [**Technology and Information System** ](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/TECHNOLOGY%20AND%20INFORMATION%20SYSTEM)<br>
-<b>SECR1013 - </b> [**Digital Logic**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DIGITAL%20LOGIC)<br>
-<b>SECI1013 - </b> [**Discrete Structure**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/DISCRETE%20STRUCTURE)<br>
-<b>SECJ1013 - </b> [**Programming Language 1**](https://github.com/GUIKAHSIN/MY-YEAR-1/tree/main/PROGRAMMING%20TECHNIQUE%201)<br>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square\&logo=powerbi\&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D7?style=flat-square)
 
-## Sem 2
-<b>SCSJ1023 - </b> [**Programming Technique 2**] <br>
-<b>SECI1143 - </b> [**Probability & Statistical Data Analysis**] <br>
-<b>SCSR2033 - </b> [**Computer Organization and Architecture**] <br>
+### Databases
 
-## Year 2
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
 
-</p>
+### Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
 
+---
+
+## 📚 Academic Portfolio
+
+### 🎓 Coursework Repository
+
+🔗 https://github.com/GUIKAHSIN/UTM_CourseWork
+
+Highlights include:
+
+* Artificial Intelligence
+* Database Programming
+* Enterprise Systems Design & Modelling
+* Application Development
+* Business Intelligence
+* High Performance Data Processing
+* Special Topic in Data Engineering
+
+---
+
+## 🏆 Leadership & Activities
+
+* Treasurer, JKM KTDI (2025/2026)
+* Head of Sustainability, JKM KTDI (2024/2025)
+* Director, MMA'25
+* Project Director, OPERA Haunted House
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=GUIKAHSIN\&show_icons=true\&theme=buefy)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=GUIKAHSIN\&theme=buefy)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN\&layout=compact\&theme=buefy)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Building data-driven solutions through engineering, analytics, and innovation.
+
+</div>
