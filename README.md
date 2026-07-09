@@ -149,11 +149,11 @@ Highlights include:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=GUIKAHSIN\&show_icons=true\&theme=buefy)
+<img src="https://github-readme-stats.vercel.app/api?username=GUIKAHSIN&show_icons=true&theme=buefy" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=GUIKAHSIN\&theme=buefy)
+<img src="https://streak-stats.demolab.com/?user=GUIKAHSIN&theme=buefy" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN\&layout=compact\&theme=buefy)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN&layout=compact&theme=buefy" />
 
 </div>
 
