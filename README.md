@@ -149,11 +149,11 @@ Highlights include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GUIKAHSIN&show_icons=true&theme=buefy" />
+<img src="https://streak-stats.demolab.com?user=GUIKAHSIN&theme=buefy" />
 
-<img src="https://streak-stats.demolab.com/?user=GUIKAHSIN&theme=buefy" />
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUIKAHSIN&layout=compact&theme=buefy" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GUIKAHSIN&theme=default" />
 
 </div>
 
